@@ -2,7 +2,7 @@
 
 ### **Welcome to my Github Account!**
 
-<img align="right" width="400px" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
+<img align="mid" width="400px" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
 
 I graduated from Electrical&Electronics Engineering in September 2021.
 I constantly improving myself in Back-End Development since last October.
