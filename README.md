@@ -5,6 +5,7 @@
 <img align="mid" width="400px" src="https://miro.medium.com/max/1400/1*G48L33n3M7FXze_kturcyQ.jpeg"/>
 
 I graduated from Electrical&Electronics Engineering in September 2021.
+
 I constantly improving myself in Back-End Development since last October.
 
 <h3 align="left">Languages and Tools:</h3>
